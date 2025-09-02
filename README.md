@@ -10,7 +10,7 @@ We evaluate **XGBoost, K-Nearest Neighbors (KNN), Gradient Boosting, and Logisti
 
 ## Dataset
 - **Name:** Sleep Health and Lifestyle Dataset  
-- **Size:** 374 individuals (medical professionals)  
+- **Size:** 374 individuals (professionals)  
 - **Features:** Age, Gender, Occupation, BMI Category, Sleep Duration, Stress Level, Blood Pressure, Physical Activity, etc.  
 - **Target:** Sleep Disorder (No Disorder, Insomnia, Sleep Apnea)  
 
